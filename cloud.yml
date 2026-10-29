@@ -1,0 +1,12 @@
+name: FindSeoul
+id: 84c75a27-8904-4830-adc7-532301e7815c
+description: ''
+regions:
+  nrt: 1
+vmtype: c2m2
+loglevel : debug
+envfile: .env
+hostname: findseoul
+project: d4641167-37eb-4f9a-a93a-26550743e9d3
+packages:
+- procps
